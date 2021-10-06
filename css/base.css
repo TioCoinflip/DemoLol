@@ -23,7 +23,7 @@ html, body {
 }
 
 body {
-	--color-text: #5d5d5d;
+	--color-text: #c0b01e;
 	--color-bg: #e6e6ea;
 	--color-link: #838288;
 	--color-link-hover: #000;
@@ -43,7 +43,7 @@ body {
 }
 
 .dark-mode {
-	--color-text: #424242;
+	--color-text: #c0b01e;
 	--color-bg: #101010;
 	--color-link: #dda260;
 	--color-link-hover: rgb(255, 255, 255);
@@ -115,8 +115,9 @@ main {
 }
 
 .frame__title {
-	font-size: 1rem;
+	font-size: 50px;
 	margin: 0 0 1rem;
+
 }
 
 .frame__links a {
